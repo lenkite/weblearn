@@ -1,0 +1,7 @@
+<svg width="18" height="18" viewBox="-32 -32 64 64" 
+        style="background: #f60; border: 1px white solid;">
+        <rect x="-3" y="-2"  width="6" height="24" fill="white" id="rc1"/>
+        <use href="#rc1" y="-22" transform="rotate(-34) scale(1, 1.2)" id="rc2"/>
+        <use href="#rc2" transform="scale(-1,1)"/>
+        <rect x="-30" y="-30" width="60" height="12" fill="#f60"/>
+</svg>
